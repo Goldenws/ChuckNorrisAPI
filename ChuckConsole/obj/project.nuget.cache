@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4V8jZhJ+rOgir+kq6besMGQdEp+buExdWWiEQInTrDhyoXMIKcWn22Mqoc/cMRFAi8kQeDi7P+naY0lMDXDJYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roland Strod\\source\\repos\\ChuckConsole\\ChuckConsole\\ChuckConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roland Strod\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
